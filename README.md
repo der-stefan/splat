@@ -1,4 +1,8 @@
-# SPLAT!
+# SPLAT! 2.0-alpha
+
+```
+Please note that this branch is not functional yet!
+```
 
 A Terrestrial RF Path and Terrain Analysis Tool for Unix/Linux
 
