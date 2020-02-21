@@ -8,7 +8,7 @@ set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 configure_file(${PROJECT_SOURCE_DIR}/include/splat_config.h.in splat_config.h)
-add_executable(splat src/test.cpp)
+add_executable(splat src/splat.cpp)
 target_include_directories(splat PUBLIC "${PROJECT_BINARY_DIR}")
 
 
