@@ -1,0 +1,4 @@
+//This is a template file that gets processed by cmake
+
+#define SPLAT_VERSION_MAJOR @splat_VERSION_MAJOR@
+#define SPLAT_VERSION_MINOR @splat_VERSION_MINOR@
